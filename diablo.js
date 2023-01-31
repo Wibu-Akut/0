@@ -676,10 +676,10 @@ diablo.sendMessage(diablobotwhatsapp.chat, { image: { url: anu.thumb }, caption:
 diablo.sendMessage(diablobotwhatsapp.chat, { video: { url: anu.result }, mimetype: 'video/mp4', fileName: `${anu.title}.mp4` }, { quoted: diablobotwhatsapp })
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285774146590`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285740392651`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285774146590`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285740392651`)
 break
 case 'join': {
 if (!itsMediablo) return diablobotwhatsapp.reply(mess.owner)
